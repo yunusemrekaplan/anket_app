@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "865033319998",
+    "firebase_url": "https://anket-uygulamasi-8e110-default-rtdb.firebaseio.com",
+    "project_id": "anket-uygulamasi-8e110",
+    "storage_bucket": "anket-uygulamasi-8e110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865033319998:android:79cbf4f778618b12a7c36f",
+        "android_client_info": {
+          "package_name": "com.yunusemrekaplan.anket_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865033319998-g58eug4piki2fhasar77qkv5uuse9687.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqeiMP8E3qP8f-Yz76ndehbJQOVAu1UZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865033319998-g58eug4piki2fhasar77qkv5uuse9687.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865033319998-1e0sga5njmvuvlf0162ltaddi7qequd0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "meb.com.anketDemoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

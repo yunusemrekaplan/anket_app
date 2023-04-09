@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>865033319998-q7hbea1ehos2m5eladjvk3jrig473i86.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.865033319998-q7hbea1ehos2m5eladjvk3jrig473i86</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBl8GhEpBGWvBr9fuXcagay-pJ4VnWf6SQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>865033319998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yunusemrekaplan.anketApp</string>
+	<key>PROJECT_ID</key>
+	<string>anket-uygulamasi-8e110</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anket-uygulamasi-8e110.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:865033319998:ios:4604332b82270c39a7c36f</string>
+	<key>DATABASE_URL</key>
+	<string>https://anket-uygulamasi-8e110-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
